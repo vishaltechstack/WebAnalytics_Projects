@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+pandas
+numpy
+mysql-connector-python
+pyodbc
+pymongo
+python-dotenv
+lxml
